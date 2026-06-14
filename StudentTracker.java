@@ -1,6 +1,7 @@
 public class StudentTracker {
     public static void main(String[] args) {
-        int[] grades = {5, 4, 3, 5, 4, 5, 3, 4}; 
+        // Поменяли оценки внутри фигурных скобок
+        int[] grades = {3, 2, 3, 4, 2, 3}; 
         
         double sum = 0;
         for (int grade : grades) {
